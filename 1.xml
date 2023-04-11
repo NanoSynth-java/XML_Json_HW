@@ -1,16 +1,16 @@
-<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <user>
 
-    <name>"Иван"</name>
+    <name>Иван</name>
 
-    <surname>"Иванов"</surname>
+    <surname>Иванов</surname>
 
-    <patronymic>"Иванович"</patronymic>
+    <patronymic>Иванович</patronymic>
 
-    <age>"30"</age>
+    <age>30</age>
 
-    <phone>"Москва"</phone>
+    <phone>+7 926 766 48 48</phone>
 
-    <birthplace>"+7 926 766 48 48"</birthplace>
+    <birthplace>Москва</birthplace>
 
 </user>
